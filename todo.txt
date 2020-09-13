@@ -1,0 +1,7 @@
+1. setup redux (add reselect to memorize selectors)
+2. setup express server
+3. listen for get requests on /skinTypes
+4. Create header and loaded initial page prompting user to selected a skintype from the dropdown
+5. query skintypes from the backend
+6. visualize the skintype selected with some fade in effects and lorem ipsum
+7. setup a db where each array item is a row in a table and create an entity mapping to this table
